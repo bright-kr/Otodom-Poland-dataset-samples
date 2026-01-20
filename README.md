@@ -1,4 +1,4 @@
-# Otodom Poland Real Estate Listings Dataset Sample
+# Otodom Poland Real Estate Listings 데이터셋 샘플
 
 <h2>6,252개 레코드로 구성된 샘플 데이터셋</h2>
 
